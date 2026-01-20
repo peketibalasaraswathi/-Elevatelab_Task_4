@@ -57,4 +57,7 @@ This project focuses on **feature engineering** techniques applied to the **Adul
   - Neural Networks
 
  # output
- 
+ <img width="1342" height="597" alt="Image" src="https://github.com/user-attachments/assets/abc49933-f94f-423f-99f9-1b79c0afdae7" />
+<img width="1448" height="589" alt="Image" src="https://github.com/user-attachments/assets/9b43731a-f7dc-4d3d-8339-29fffc1aa5af" />
+<img width="1042" height="315" alt="Image" src="https://github.com/user-attachments/assets/45e14b9a-a0fc-4836-bb3b-842d42a08230" />
+
